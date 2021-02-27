@@ -1,0 +1,2 @@
+# SFM
+Simple Football Manager
